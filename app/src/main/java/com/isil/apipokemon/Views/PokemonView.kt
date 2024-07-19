@@ -110,7 +110,6 @@ fun PokemonCard(
             .padding(10.dp)
     ){
         Card(
-//            onClick = { /*TODO*/ },
             modifier = Modifier
                 .height(150.dp)
                 .wrapContentSize()
